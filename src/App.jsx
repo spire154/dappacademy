@@ -22,7 +22,7 @@ const projectId = '0828d852938a0d912e446a3c270ea8e5'
 const metadata = {
   name: 'AppKit',
   description: 'AppKit Example',
-  url: 'https://example.com', // origin must match your domain & subdomain
+  url: 'https://polite-ocean-0fe91d80f.6.azurestaticapps.net/', // origin must match your domain & subdomain
   icons: ['https://avatars.githubusercontent.com/u/179229932'],
 }
 
