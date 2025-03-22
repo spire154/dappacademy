@@ -1,8 +1,8 @@
 import React from 'react'
-import nissan_img from '../../assets/nissan.jpg'
-import minecraft_img from '../../assets/minecraft.jpg'
-import zelle_img from '../../assets/zelle.jpg'
-import zomato_img from '../../assets/zomato.jpg'
+import nissan_img from '../../assets/nissan.webp'
+import minecraft_img from '../../assets/minecraft.webp'
+import zelle_img from '../../assets/zelle.webp'
+import zomato_img from '../../assets/zelle.webp'
 
 const cards = [
     {

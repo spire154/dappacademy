@@ -10,12 +10,12 @@ const links = [
     },
     {
         id: 2,
-        name: "Products",
+        name: "Courses",
         url: "#",
     },
     {
         id: 3,
-        name: "Features",
+        name: "Teach",
         url: "#",
     },
     {
